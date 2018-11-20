@@ -1,0 +1,7 @@
+To %s,
+
+Your reset key is %s.
+
+Cheers,
+
+Nick de Villiers - Lead Developer

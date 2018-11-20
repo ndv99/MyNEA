@@ -1,0 +1,22 @@
+body
+{
+    font-family: arial;
+    background-color: #FFFFFF;
+}
+
+h1
+{
+	font-size:40px;
+	color:black;
+	padding-left:10px;
+}	
+
+table
+{
+	background-color:white;
+}
+
+td 
+{
+	background-color:lightgray;
+}
